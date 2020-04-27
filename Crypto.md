@@ -11,6 +11,8 @@ Short key, first crypto in a CTF? Just smells of a Vigenere cipher. Google “vi
 ### Flag: ### 
 rtcp{vinegar_on_my_fish_and_chips_please}
 
+
+
 # "fences are cool unless they're taller than you" - tida #
 ### 50 Points ###
 
@@ -23,6 +25,8 @@ Google “fence cipher” and you’ll read about the Rail Fence Cipher. Throw t
 
 ### Flag: ### 
 rtcp{ask_tida_about_rice_washing}
+
+
 
 # Returning Stolen Archives #
 ### 50 Points ###
@@ -37,6 +41,8 @@ Dev: Delphine Hint! words are separated with underscores
 
 ### Flag: ###
 
+
+
 # Broken Yolks #
 ### 518 Points ###
 
@@ -50,6 +56,8 @@ Why hello Google, my old friend. Search for “scramble cipher” and you’ll p
 ### Flag: ### 
 rtcp{fried_or_scrambled}
 
+
+
 # Rivest Shamir Adleman #
 ### 831 Points ###
 
@@ -60,6 +68,8 @@ Dev: Tom Hint! There are two possible ways to get the flag ;-)
 ### Solution: ###
 
 ### Flag: ###
+
+
 
 # Post-Homework Death #
 ### 1,173 Points ###
@@ -73,6 +83,8 @@ Dev: Claire Hint! When placing the string in the matrix, go up to down rather th
 ### Solution: ###
 
 ### Flag: ###
+
+
 
 # Parasite #
 ### 1,262 Points ###
@@ -93,6 +105,8 @@ Luckily, one of our team members lives in the heart of K-Town and was able to le
 ### Flag: ### 
 rtcp{hope_is_the_true_parasite} 
 
+
+
 # Sizzle #
 ### 1,345 Points ###
 
@@ -107,6 +121,8 @@ Bacon is quite yummy, but pork products probably weren't what the devs meant for
 
 ### Flag: ### 
 rtcp{BACON_BUT_GRILLED_AND_MORSIFIED}
+
+
 
 # Rainbow Vomit #
 ### 1,585 Points ###
@@ -127,6 +143,8 @@ Either the hints weren’t there when I first started or, more likely, I didn’
 ### Flag: ### 
 rtcp{should,fl5g4,b3,st1cky,or,n0t}
 
+
+
 # 11 #
 ### 1,777 Points ###
 
@@ -145,6 +163,8 @@ add _ (underscores) in place of spaces. Hint! Character names count too
 ### Solution: ###
 
 ### Flag: ###
+
+
 
 # .... .- .-.. ..-. #
 ### 1,882 Points ###
