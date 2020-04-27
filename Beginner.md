@@ -142,9 +142,10 @@ Remember to wrap the flag in rtcp{}
 Hint! Make sure you use the "complete" alphabet.
 
 ### Solution:
+Bacon Cipher Decode.  You do need to change it from standard to complete.  Or....just us Magic again.
 
 ### Flag: 
-rtcp{ }
+rtcp{GOEATFOODDONTSTARVE}
 
 
 
