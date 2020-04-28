@@ -66,7 +66,7 @@ masterpiece.mid (3cf79ff90abc4eb76f22f33adf636189)
 ### Solution:
 I just opened this one up in Audacity and the flag was written out in the notes. The most frustrating part of this one was figuring out which character to use in the flag.
 
-![Masterpiece](https://raw.githubusercontent.com/TheLeageOfSociallyDistancedGentlemen/HouseplantCTF2020/master/img/masterpiece.png)
+![Masterpiece](img/masterpiece.png)
 ### Flag:
 rtcp{MOZ4rt_WOuld_b3_proud}
 
@@ -119,7 +119,7 @@ img.save('test.png')
 
 That resulted in this image
 
-![satans_jigsaw](https://raw.githubusercontent.com/TheLeageOfSociallyDistancedGentlemen/HouseplantCTF2020/master/img/satans_jigsaw.png)
+![satans_jigsaw](img/satans_jigsaw.png)
 
 One of those QR codes is a rickroll, the other is the flag!
 
