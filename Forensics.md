@@ -158,9 +158,14 @@ Dev: Daphne
 Hint! [https://www.youtube.com/watch?v=QS1-K01mdXs](https://www.youtube.com/watch?v=QS1-K01mdXs)
 
 ### Solution:
+Based on the hint, I went searching for how to hide text in a raw audio file and came across this [video](https://www.youtube.com/watch?v=tU8WbB9vhDg).
+
+This challenge was pretty much identical to that. I used an online tool, [photopea](https://www.photopea.com/), to open the raw audio and create an image that was 1700x1700. The flag was in the image.
+
+!(jess)[img/jess.png]
 
 ### Flag:
-
+rtcp{j3ss_i$_s0_t@lented}
 
 # **[Imagery](https://houseplant.riceteacatpanda.wtf/challenge?id=60)** 
 ### 1,960 Points
@@ -176,9 +181,18 @@ Alternate: https://mega.nz/file/R00hgCIa#e0gMZjsGI0cqw88GzbEzKhcijWGTEPQsst4QMfR
 Dev: Tom
 
 ### Solution:
+I spent forever on this one just extracting files using binwalk and crawling through those. There were a ton of directions you could go with that as there were images, html files, etc.
+
+I may not have gotten this one except for the fact that I saw a hint in Discord along the lines of `how long is a peice of string(s)? I need to write it down in my Notepad"
+
+This got me digging and I noticed that there were some mention of Notepad in the file. Some googling around and I came across this [post](https://www.andreafortuna.org/2018/03/02/volatility-tips-extract-text-typed-in-a-notepad-window-from-a-windows-memory-dump/) about using Volatility to read a memory dump.
+
+Following that guide I was able to use a newer version of Volatility on this file to get to the flag. 
+
+It turns out that `strings -e l imagery.raw | grep rtcp` would have done it just as well.
 
 ### Flag:
-
+rtcp{camera_goes_click_brrrrrr^and^gives^photo}
 
 # **[Vacation Pics](https://houseplant.riceteacatpanda.wtf/challenge?id=54)** 
 ### 1,994 Points
