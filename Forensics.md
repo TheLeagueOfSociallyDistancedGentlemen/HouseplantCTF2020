@@ -162,7 +162,7 @@ Based on the hint, I went searching for how to hide text in a raw audio file and
 
 This challenge was pretty much identical to that. I used an online tool, [photopea](https://www.photopea.com/), to open the raw audio and create an image that was 1700x1700. The flag was in the image.
 
-!(jess)[img/jess.png]
+![jess](img/jess.png)
 
 ### Flag:
 rtcp{j3ss_i$_s0_t@lented}
